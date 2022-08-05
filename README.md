@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DusanVelimirovic
-- 👀 I’m interested in computer science and programming
-- 🌱 I’m currently learning programming foundations
+- 👀 I’m interested in front-end and back-end technologies and cloud computing.
 - 💞️ I’m looking to collaborate on every project where I can learn.
 - 📫 How to reach me dusan.velimirovic@yahoo.com
 
